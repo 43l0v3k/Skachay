@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Скачай
+GenericName=Менеджер загрузок
+Comment=Многопоточная загрузка файлов с докачкой
+Exec=skachay %U
+Icon=skachay
+Terminal=false
+Categories=Network;FileTransfer;
+Keywords=download;загрузка;скачать;idm;
